@@ -1,0 +1,1 @@
+# typescript-architecture_samplecode
