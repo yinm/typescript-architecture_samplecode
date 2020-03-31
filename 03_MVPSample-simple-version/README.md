@@ -1,0 +1,1 @@
+Simple version means implementation "Search GitHub User" page only. (not implement user detail page)
